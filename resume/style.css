@@ -16,7 +16,7 @@ h1{
     color: #33485e;
 }
 
-/* section titles */
+/* my title */
 
 strong {
     font-size: 1.5em;
@@ -25,7 +25,8 @@ strong {
     color: #33485e
 }
 
-/* 
+/* section titles */
+
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -33,10 +34,14 @@ h2 {
     color: white;
 }
 
+/* job titles */
+
 h3 {
     font-weight: 600;
     font-size: 1.5em;
 }
+
+/* job organization */
 
 h4 {
     font-size: 1.5em;
