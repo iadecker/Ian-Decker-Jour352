@@ -34,6 +34,7 @@ strong {
 .sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
+    font-weight: 400;
     background-color: #33485e;
     color: white;
     margin: 20px 0px 10px;
@@ -62,8 +63,20 @@ strong {
     margin: 2px 0px 0px;
 }
 
+/* paragraphs */
+
+.description{
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
 /* contact info, skills, education */
 
-ul {
+.menu {
     font-size: 1em;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
 }
