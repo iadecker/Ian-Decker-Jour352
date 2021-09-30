@@ -15,6 +15,9 @@ BODY{
     text-align: center;
     color: #33485e;
     border-bottom: 1px solid #33485e;
+    min-width: 300px;
+    width: 60%;
+    margin: 0 auto; 
 }
 
 /* my title */
