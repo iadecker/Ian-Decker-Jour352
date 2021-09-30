@@ -31,31 +31,35 @@ strong {
 
 /* section titles */
 
-#sectionheader {
+.sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color: #33485e;
     color: white;
+    margin: 20px 0px 10px;
+    width: 70%;
+    min-width: 300px;
 }
 
 /* job titles */
 
-h3 {
+.jobtitle {
     font-weight: 600;
     font-size: 1.5em;
 }
 
 /* job organization */
 
-h4 {
-    font-size: 1.5em;
+.organization {
+    font-size: 1.25em;
 }
 
 /* job dates */
 
-h5 {
+.date {
     font-size: 1em;
     font-style: italic;
+    margin: 2px 0px 0px;
 }
 
 /* contact info, skills, education */
