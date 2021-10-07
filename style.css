@@ -1,7 +1,3 @@
-@media only screen and (max-width: 500px) {
- 
-}
-
 img {
     width: 100%;
     max-width: 500px;
@@ -9,11 +5,11 @@ img {
     padding: 15px;
 }
 
-.container {
+.container-row {
     text-align: center;
 }
 
-.column {
+.column-row {
     size: 3em;
     text-align: center;
     padding: 50px;
@@ -41,4 +37,13 @@ h3 {
 
 .btn {
     font-family: 'Special Elite', cursive;
+}
+
+@media only screen and (max-width: 500px) {
+    h2 {
+        padding-top: 50px;
+    }
+    .btn {
+        background-color: teal;
+    }
 }
