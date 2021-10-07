@@ -5,11 +5,11 @@ img {
     padding: 15px;
 }
 
-.container-row {
+.container {
     text-align: center;
 }
 
-.column-row {
+.column {
     size: 3em;
     text-align: center;
     padding: 50px;
@@ -39,9 +39,9 @@ h3 {
     font-family: 'Special Elite', cursive;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 800px) {
     h2 {
-        padding-top: 50px;
+        padding-top: 50px; 
     }
     .btn {
         background-color: teal;
