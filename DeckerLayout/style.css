@@ -34,3 +34,7 @@ p {
     font-style: italic;
     color: gray;
 }
+
+.bodyimages {
+    max-width: 900px;
+}
