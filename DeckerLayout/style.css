@@ -1,0 +1,40 @@
+#content {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+img {
+    width: 900px;
+    size: 300 px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #18ADEF;
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    max-width: 900px;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+.caption {
+    font-family: Georgia, serif;
+    font-size: 13px;
+    font-style: italic;
+    color: gray;
+}
+
+.bodyimages {
+    max-width: 900px;
+}
