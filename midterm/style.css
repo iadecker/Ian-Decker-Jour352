@@ -36,3 +36,12 @@ p {
     padding: 15px;
     object-fit: fill;
 }
+.caption {
+    font-size: 10px;
+    font-style: italic;
+    color: gray;
+}
+
+#row {
+    text-align: center;
+}
