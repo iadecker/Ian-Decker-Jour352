@@ -38,3 +38,38 @@ p {
 .bodyimages {
     max-width: 900px;
 }
+
+.source {
+    font-family: Georgia, serif;
+    font-size: 13px;
+    font-style: italic;
+    color: gray;
+}
+
+.hope {
+    font-family: Georgia, serif;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+
+.chatter {
+    font-family: Georgia, serif;
+    font-size: 13px;
+    font-style: italic;
+    color: gray;
+}
+
+.blockquote {
+    font-family: Georgia, serif;
+    font-size: 26px;
+    color: #18ADEF;
+    font-weight: bold;
+}
+
+.read {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    color: #18ADEF;
+    font-weight: bold;
+}
