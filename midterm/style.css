@@ -8,7 +8,7 @@
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 38px;
+    font-size: 36px;
     color: #9AE6D3;
     max-width: 100%;
     text-align: center;
@@ -19,9 +19,14 @@ h1 {
     font-size: 22px;
     color: gray;
     text-align: center;
-    padding-bottom: 10px;
 }
 
+.date {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: gray;
+}
 .subheader {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 30px;
@@ -85,4 +90,11 @@ a {
     width: 100%;
     max-width: 900px;
     text-align: justify;
+}
+
+#layout {
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+    columns: center;
 }
