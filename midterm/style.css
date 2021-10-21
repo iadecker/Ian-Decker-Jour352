@@ -1,4 +1,4 @@
-/* When we first learned about css, I had absolutely NO idea what it did. Again, it's super cool to see the progress we've made during the semester. I feel like I understand how to use css to make your website more engaging */
+/* When we first learned about css, I had absolutely NO idea what it did. Again, it's super cool to see the progress we've made during the semester. I feel like I understand how to use css to make a website more engaging */
 
 .mifune {
     width: 100%;
@@ -21,11 +21,12 @@ h1 {
     text-align: center;
 }
 
-.date {
+#date {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color: gray;
+    padding: 12px;
 }
 .subheader {
     font-family:Arial, Helvetica, sans-serif;
@@ -69,7 +70,9 @@ a {
     max-height: 500px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    text-align: justify;
+    width: 100%;
+    padding: 5px;
 }
 
 .read {
@@ -97,4 +100,9 @@ a {
     max-width: 1000px;
     width: 100%;
     columns: center;
+}
+
+.links {
+    font-size: 15px;
+    text-align: center;
 }
