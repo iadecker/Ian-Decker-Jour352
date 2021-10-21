@@ -25,7 +25,7 @@ Google is the best search engine in the world.
 
 
 2.  Describe the purpose of a DIV tag.
-    The purpose of a DIV (division) tag is to divide content — header, footer, images, text, nav. bar, etc — in the web page.
+    The purpose of a DIV (division) tag is to divide content — nav. bar, header, footer, images, text, etc — in the web page.
 
 3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
     <!DOCTYPE html>
@@ -63,7 +63,7 @@ Google is the best search engine in the world.
     We would use an <img> tag.
 
 10.  Why do we use media queries?
-    Media queries make the information on our webpage accessible on different devices. Media queries adjust the height and width of the page depending on the device it is being viewed. It allows people to view and interact with the same matieral on a mac, laptop, tablet or iPhone. 
+    Media queries make the information on our webpages accessible on different devices. Media queries adjust the height and width of the page depending on the device it is being viewed. It allows people to view and interact with the same matieral on a mac, laptop, tablet or iPhone, for example. 
 
 11. What is the main difference between a serif and a sans-serif font?
     The main difference between a serif and a sans-serif font is the sharpness of the numerals. For example, the edges in serif are more pointed, whereas the edges in sans-serif are flat. It's in the name when you think about it; serif has sharp edges, and sans, meaning without, does not have the jagged edges!
