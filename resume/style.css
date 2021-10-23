@@ -1,10 +1,11 @@
 /* styles for my resume */
 
-BODY{
+body{
     font-family: 'Open Sans', arial, sans-serif;
     font-size: 1em; 
     color:#444;
     font-weight:400;
+    background-color: #0C6B7A;
 }
 
 /* banner name at top*/
@@ -13,11 +14,13 @@ BODY{
     font-size: 3em;
     text-transform: uppercase;
     text-align: center;
-    color: #33485e;
-    border-bottom: 1px solid #33485e;
+    color: white;
+    border-bottom: 3px solid white;
     min-width: 300px;
-    width: 60%;
+    width: 20%;
     margin: 0 auto; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
 }
 
 /* my title */
@@ -31,20 +34,21 @@ BODY{
     margin-right: 0px;
     text-transform: uppercase;
     text-align: center;
-    color: #33485e
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /* section titles */
 
 .sectionheader {
-    font-size: 1.5em;
+    font-size: 2em;
     text-transform: uppercase;
-    font-weight: 400;
-    background-color: #33485e;
+    font-weight: 700;
     color: white;
     margin: 20px 0px 10px;
-    width: 70%;
+    width: 100%;
     min-width: 300px;
+    text-align: center;
 }
 
 /* job titles */
@@ -84,6 +88,7 @@ BODY{
     margin: 0px;
     padding: 0px;
     text-align: center;
+    color: white;
 }
 
 .menu >li{
@@ -116,4 +121,19 @@ BODY{
     max-width: 1200px;
     margin: 0 auto;
     padding-bottom: 50px;
+}
+
+.image {
+    justify-content: center;
+    width: 28%;
+    position: relative;
+    left: auto;
+    right: auto;
+    width: 325px;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
