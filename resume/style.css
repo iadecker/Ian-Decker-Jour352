@@ -124,7 +124,7 @@ body{
 }
 
 .image {
-    justify-content: center;
+    justify-content: center !important;
     width: 28%;
     position: relative;
     left: auto;
@@ -136,4 +136,6 @@ body{
     color: white;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    width: 100%;
 }
