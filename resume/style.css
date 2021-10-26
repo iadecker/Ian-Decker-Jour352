@@ -5,7 +5,7 @@ body{
     font-size: 1em; 
     color:#444;
     font-weight:400;
-    background-color: #0C6B7A;
+    background-color: black;
 }
 
 /* banner name at top*/
@@ -14,7 +14,7 @@ body{
     font-size: 3em;
     text-transform: uppercase;
     text-align: center;
-    color: white;
+    color: #EE371A;
     border-bottom: 3px solid white;
     min-width: 300px;
     width: 20%;
@@ -44,7 +44,7 @@ body{
     font-size: 2em;
     text-transform: uppercase;
     font-weight: 700;
-    color: white;
+    color: #EE371A;
     margin: 20px 0px 10px;
     width: 100%;
     min-width: 300px;
@@ -62,6 +62,7 @@ body{
 
 .organization {
     font-size: 1.25em;
+    color: #eff614
 }
 
 /* job dates */
@@ -143,4 +144,30 @@ body{
 li {
     display: inline;
     color: white;
+}
+
+#coby {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 0 auto;
+    padding-right: 20px;
+    padding-left: 35px;
+}
+
+.me {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #EE371A;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.navbar {
+    color: white;
+}
+
+#copyright {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
