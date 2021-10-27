@@ -11,16 +11,15 @@ body{
 /* banner name at top*/
 
 #name{
-    font-size: 3em;
+    font-size: 2.5em;
     text-transform: uppercase;
     text-align: center;
     color: #7a2f18;
-    border-bottom: 3px solid white;
+    border-bottom: 2.3px solid white;
     min-width: 300px;
     width: 20%;
     margin: 0 auto; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;
 }
 
 /* my title */
@@ -28,14 +27,11 @@ body{
 #title {
     font-size: 1.5em;
     font-weight: 600px center;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
     text-transform: uppercase;
     text-align: center;
     color: #1b4d7c;;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
 }
 
 /* section titles */
@@ -83,18 +79,6 @@ body{
 }
 
 /* contact info, skills, education */
-
-.menu {
-    font-size: 1em;
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-    color: white;
-}
-
-.menu >li{
-    display: inline;
-}
 
 #degrees{
     margin-top: 5px;
@@ -149,11 +133,8 @@ li {
 
 #coby {
     width: 100%;
-    max-width: 1200px;
     margin: 0 auto;
     height: 0 auto;
-    padding-right: 20px;
-    padding-left: 30px;
 }
 
 .me {
@@ -165,10 +146,17 @@ li {
 
 .navbar {
     color: white;
+    font-size: 1.35em;
 }
 
 #copyright {
     color: white;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.8em;
+}
+
+.icons {
+    font-size: 2em;
+    text-align: center;
 }
