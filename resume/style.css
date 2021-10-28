@@ -88,11 +88,13 @@ body{
 #degrees{
     text-align: center;
     margin: 0 auto;
+    width: 100%;
 }
 
 #do {
     text-align: center;
     margin: 0 auto;
+    width: 100%;
 }
 
 .top {
@@ -166,4 +168,27 @@ li {
     margin: 0 auto; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;   
+}
+
+.samples {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #7a2f18;
+    margin: 20px 0px 10px;
+    width: 100%;
+    min-width: 300px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.articles {
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 2.3px solid white;
+    min-width: 200px;
+    width: 16%;
+    margin: 0 auto; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;  
 }
