@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#byline {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-weight: 700;
+    margin: 0 auto;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 85%;
+}
+
+p {
+    margin: 0 auto;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 85%;
+}
+
+.saturn {
+    width: 750px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+figcaption {
+    color: gray;
+    font-style: italic;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 1.5em;
+}
+
+.foot {
+    color: white;
+}
