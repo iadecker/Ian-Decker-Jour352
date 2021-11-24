@@ -91,7 +91,27 @@ p {
 
 .sidebar {
     max-width: 600px;
+    border-top: .25em solid #EB3E01;
+    border-bottom: .25em solid #EB3E01;
+    border-left: .25em solid #EB3E01;
+    border-right: .25em solid #EB3E01;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 0 auto;
+    font-weight: bold;
+    line-height: 1.8;
 }
+
+#dd {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.AMS {
+    font-style: italic;
+    font-weight: normal;
+}
+
 /* Media Queries */
 
 @media (max-width: 650px) {
