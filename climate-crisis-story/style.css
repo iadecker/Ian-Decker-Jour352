@@ -54,6 +54,12 @@ p {
     line-height: 2;
 }
 
+.quote {
+    text-align: center;
+    font-style: italic;
+    padding-top: .5em;
+}
+
 /* Media Queries */
 
 @media (max-width: 650px) {
