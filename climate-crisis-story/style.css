@@ -49,6 +49,11 @@
     font-weight: bold;
 }
 
+p {
+    margin: 0 auto;
+    line-height: 2;
+}
+
 /* Media Queries */
 
 @media (max-width: 650px) {
