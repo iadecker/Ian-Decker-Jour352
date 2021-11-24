@@ -51,7 +51,9 @@
 
 p {
     margin: 0 auto;
-    line-height: 2;
+    line-height: 2.5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
 }
 
 .quote {
@@ -60,14 +62,18 @@ p {
     padding-top: .5em;
 }
 
+.sectionhead {
+    color:red;
+    font-size: 2em;
+    font-family: cursive;
+}
+
 /* Media Queries */
 
 @media (max-width: 650px) {
     .hero-hed {
         font-size: 1.5em;
     }
-
-
 
 
 
