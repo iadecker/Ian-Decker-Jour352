@@ -92,8 +92,12 @@ p {
     padding: 10px 0 10px 0;
     border-top: 1.5px solid #EB3E01;
     border-bottom: 1.5px solid #EB3E01;
+    border-left: 1.5px solid #EB3E01;
+    border-right: 1.5px solid #EB3E01;
     margin-top: 15px;
     margin-top: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .speaker {
@@ -127,16 +131,16 @@ p {
     font-weight: normal;
 }
 
-a: link {
+a:link { /* unvisited link */
     color: blue;
     border-bottom: 1px solid;
 }
 
-a: visited {
+a:visited { /* visited link */
     color: purple;
 }
 
-a: hover {
+a:hover { /* mouse over link */
     color: red;
 }
 
