@@ -156,6 +156,10 @@ a:hover { /* mouse over link */
         font-size: 1.5em;
     }
 
+    img {
+        font-style: 1.5em;
+        width: 100%;
+    }
 
 
 }
