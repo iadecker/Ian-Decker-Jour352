@@ -32,7 +32,7 @@
 }
 
 .hero-hed {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:cursive;
     font-size: 6em;
     color: white;
     margin: 0 auto;
@@ -63,11 +63,35 @@ p {
 }
 
 .sectionhead {
-    color:red;
-    font-size: 2em;
-    font-family: cursive;
+    color:#EB3E01;
+    font-size: 2.2em;
+    font-family: 'Times New Roman', Times, serif;
 }
 
+.pullquote {
+    font-family: cursive;
+    color: #EB3E01;
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 0 10px 0;
+    border-top: 1.5px solid #EB3E01;
+    border-bottom: 1.5px solid #EB3E01;
+    margin-top: 15px;
+    margin-top: 15px;
+}
+
+.speaker {
+    font-size: 0.5em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align:left;
+    color:black;
+}
+
+.sidebar {
+    max-width: 600px;
+}
 /* Media Queries */
 
 @media (max-width: 650px) {
