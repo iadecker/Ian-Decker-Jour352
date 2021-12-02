@@ -1,0 +1,73 @@
+.hero-image {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.nav-logo {
+    color: white;
+    margin: 0 auto;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.hero-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.overlay {
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.hero-hed {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 6em;
+    color: white;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.hero-sub {
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.28em;
+    font-weight: bolder;
+}
+
+.phenom {
+    color: #D42524;
+}
+
+.red {
+    color: #D42524;
+}
+
+.photo {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5.5em;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.byline {
+    font-family: 'Times New Roman', Times, serif;
+    color: #D42524;
+    font-weight:lighter;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    margin: 0 auto;
+    line-height: 1.5;
+    padding: 12.5px;
+}
