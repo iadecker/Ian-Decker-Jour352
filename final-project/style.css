@@ -71,3 +71,31 @@ p {
     line-height: 1.5;
     padding: 12.5px;
 }
+
+.icing {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.pullquote {
+    font-family: 'Architects Daughter', cursive;
+    color: #D42524;
+    font-size: 2.2em;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 0 10px 0;
+    border-top: 1.5px solid #D42524;
+    border-bottom: 1.5px solid #D42524;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.speaker {
+    font-size: 0.7em;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    text-align:left;
+    color:black;
+    margin: 0 auto;
+    text-align: center;
+}
