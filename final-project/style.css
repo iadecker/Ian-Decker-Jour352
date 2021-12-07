@@ -105,20 +105,22 @@ p {
     text-align: center;
 }
 
-.mound {
+.image {
     margin: 0 auto;
     max-width: 100%;
     padding-left: 20px;
     padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .bottom {
     width: 100%;
 }
 
-.happy {
-    margin: 0 auto;
-    max-width: 100%;
+.caption {
     padding-left: 20px;
-    padding-right: 45px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    padding-top:15px;
 }
