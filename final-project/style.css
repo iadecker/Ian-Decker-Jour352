@@ -82,12 +82,6 @@ p {
     padding: 12.5px;
 }
 
-.icing {
-    width: 40%;
-    padding-left: 20px;
-    padding-top: 15px;
-}
-
 .pullquote {
     font-family: 'Architects Daughter', cursive;
     color: #D42524;
@@ -118,6 +112,7 @@ p {
 
 .bottom {
     width: 100%;
+    text-align: center;
 }
 
 .caption {
@@ -137,6 +132,23 @@ p {
     font-weight: lighter;
 }
 
+.text-white {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: lighter;
+}
+
+a:link { /* unvisited link */
+    color: rgb(236, 17, 17);
+}
+
+a:visited { /* visited link */
+    color: rgb(50, 241, 241);
+}
+
+a:hover { /* mouse over link */
+    color: purple;
+}
+
 @media (max-width: 650px) {
     .hero-hed {
         font-size: 1.5em;
@@ -148,5 +160,9 @@ p {
     }
 
     .h1 {
+        font-size: 1em;
+    }
+
+    .nav-logo {
         font-size: 1em;
     }
