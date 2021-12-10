@@ -112,8 +112,6 @@ p {
 .image {
     margin: 0 auto;
     max-width: 100%;
-    padding-left: 20px;
-    padding-right: 45px;
     padding-top: 10px;
 }
 
@@ -136,4 +134,10 @@ p {
     margin-right: 0.03em;
     margin-bottom: -0.20em;
     font-weight: lighter;
+}
+
+@media (max-width: 300px) {
+    .overlay {
+        font-size: 1.5em;
+    }
 }
