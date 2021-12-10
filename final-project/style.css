@@ -22,6 +22,7 @@
     width: 100%;
     background-color: black;
     opacity: 0.7;
+    margin: 0 auto:
 }
 
 .hero-hed {
@@ -56,14 +57,16 @@
 h1 {
     text-align: center;
     font-size: 5.5em;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
     font-family:'Times New Roman', Times, serif;
 }
 
 .byline {
     font-family: 'Times New Roman', Times, serif;
-    color: #D42524;
+    font-style: italic;
     font-weight:lighter;
+    padding-bottom: 20px;
 }
 
 .container {
@@ -123,4 +126,15 @@ p {
     font-family: 'Roboto Slab', serif;
     font-weight: bolder;
     padding-top:15px;
+}
+
+.aligned-dropcap {
+    color: #D42524;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 600%;
+    line-height: 0.85em;
+    margin-right: 0.03em;
+    margin-bottom: -0.20em;
+    font-weight: lighter;
 }
