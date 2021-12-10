@@ -84,6 +84,7 @@ p {
 .icing {
     width: 40%;
     padding-left: 20px;
+    padding-top: 15px;
 }
 
 .pullquote {
@@ -114,7 +115,6 @@ p {
     padding-left: 20px;
     padding-right: 45px;
     padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .bottom {
@@ -125,7 +125,6 @@ p {
     padding-left: 20px;
     font-family: 'Roboto Slab', serif;
     font-weight: bolder;
-    padding-top:15px;
 }
 
 .aligned-dropcap {
