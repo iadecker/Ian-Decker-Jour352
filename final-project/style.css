@@ -175,9 +175,9 @@ a:hover { /* mouse over link */
 }
 
 @media (max-width: 550px) {
-    
+
     .aligned-dropcap {
-        font-size: 3.5em;
+        font-size: 2em;
     }
 
 }
