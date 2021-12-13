@@ -173,11 +173,3 @@ a:hover { /* mouse over link */
     }
 
 }
-
-@media (max-width: 550px) {
-
-    .aligned-dropcap {
-        font-size: 2em;
-    }
-
-}
